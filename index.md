@@ -31,7 +31,9 @@ Hi!
 
 I am a Master's student studying Physics and Maths at [IISER Bhopal](https://iiserb.ac.in). I am a part of [strings@iiserb](https://sites.google.com/iiserb.ac.in/iiserbstrings/home?authuser=0)
 
-\img{"/assets/img/strings.png"}
+@@im-150
+![](/assets/img/strings.png)
+@@
 
 A passion for pure mathematics and a curiosity for theoretical physics has lead me to explore the intersection of both of these domains. I enjoy working on problems in physical mathematics (number theory, topology, and geometry in physics); particularly in the fields (pun intended) of _quantum field theories_, _supersymmetry_ and _string theory_.
 
