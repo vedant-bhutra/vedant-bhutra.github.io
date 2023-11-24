@@ -35,9 +35,10 @@ A few interesting projects that I am working on or have got to work on in the pa
 - Applications of mock modular forms in black hole physics, particularly in the context of CHL orbifolds.
 - Supersymmetric boundary conditions for higher spin $AdS_3$ gravity and its dual description in terms of Fermi droplets.
 - A field theoretic model of superconductivity (Eliashberg theory) with spin-orbit interaction and coupling to magnons and other bosons.
+
 \end{biography}
 
-Feel welcome to contact me by email at ``vedant@live.in``.
+Feel welcome to contact me by email at [vedant@live.in](mailto:vedant@live.in).
 
 \shortcv{
   interests=["Black holes in string theory", "Chern-Simons matter theories", "Large N", "AdS/CFT", "SYK models", "Field-theoretic superconductivity"],
