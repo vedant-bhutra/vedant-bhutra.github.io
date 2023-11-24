@@ -19,7 +19,7 @@
   --spacing-unit:     30px;
 
   --background-color: #FAF3F3;
-  --text-color:       #363431;
+  --text-color:       #373b43;
   --primary-color:    #E1E5EA;
   --secondary-color:  #A7BBC7;
   --tertiary-color:   #5783c9;
@@ -30,14 +30,14 @@
 }
 
 :root.darkmode {
-    --background-color: #2c2c2c;
+    --background-color: #373b43;
     --text-color:       #c9c7c3;
     --primary-color:    #E1E5EA;
     --secondary-color:  #A7BBC7;
-    --tertiary-color:   #577bc9;
+    --tertiary-color:   #5783c9;
 
-    --grey-color:       #9c9c9c;
-    --grey-color-light:  #505050;
+    --grey-color:       #92969e;
+    --grey-color-light:  #5e5e5e;
     --grey-color-dark:  #cccccc;
 }
 
@@ -63,7 +63,7 @@ img.darkmode {
         --text-color:       #c9c7c3;
         --primary-color:    #E1E5EA;
         --secondary-color:  #A7BBC7;
-        --tertiary-color:   #57b6c9;
+        --tertiary-color:   #5783c9;
 
         --grey-color:       #92969e;
         --grey-color-light:  #5e5e5e;
@@ -84,7 +84,7 @@ img.darkmode {
 
     :root.lightmode {
         --background-color: #FAF3F3;
-        --text-color:       #363431;
+        --text-color:       #373b43;
         --primary-color:    #E1E5EA;
         --secondary-color:  #A7BBC7;
         --tertiary-color:   #5786c9;
