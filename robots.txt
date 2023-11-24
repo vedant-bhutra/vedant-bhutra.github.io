@@ -1,0 +1,4 @@
+Sitemap: https://vedant-bhutra.github.io/sitemap.xml
+
+User-agent: *
+Disallow:
