@@ -31,7 +31,7 @@ Hi!
 
 I am a Master's student studying Physics and Maths at [IISER Bhopal](https://iiserb.ac.in). I am a part of the [strings@IISERB](https://sites.google.com/iiserb.ac.in/iiserbstrings/home?authuser=0) group.
 
-@@im-50
+@@im-35
 ![](/assets/img/strings.png)
 @@
 
