@@ -1,3 +1,3 @@
 # Personal Website
 
-## [Link](https://vedant-bhutra.github.io)
+## [vedant-bhutra.github.io](https://vedant-bhutra.github.io)
