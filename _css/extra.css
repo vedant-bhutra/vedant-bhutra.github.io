@@ -38,6 +38,18 @@ body { counter-reset: eqnum; }
     margin-bottom: 0;
 }
 
+.im-50 {text-align: center;}
+.im-50 img {
+    padding: 0;
+    width: 50%;
+}
+
+.im-35 {text-align: center;}
+.im-35 img {
+    padding: 0;
+    width: 35%;
+}
+
 .small-ctr {
     width: 100%;
     text-align: center;

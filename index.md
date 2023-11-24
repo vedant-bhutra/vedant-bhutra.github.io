@@ -29,18 +29,20 @@
 
 Hi! 
 
-I am a Master's student studying Physics and Maths at [IISER Bhopal](https://iiserb.ac.in). I am a part of [strings@iiserb](https://sites.google.com/iiserb.ac.in/iiserbstrings/home?authuser=0)
+I am a Master's student studying Physics and Maths at [IISER Bhopal](https://iiserb.ac.in). I am a part of the [strings@IISERB](https://sites.google.com/iiserb.ac.in/iiserbstrings/home?authuser=0) group.
 
-@@im-150
+@@im-50
 ![](/assets/img/strings.png)
 @@
 
-A passion for pure mathematics and a curiosity for theoretical physics has lead me to explore the intersection of both of these domains. I enjoy working on problems in physical mathematics (number theory, topology, and geometry in physics); particularly in the fields (pun intended) of _quantum field theories_, _supersymmetry_ and _string theory_.
+A passion for pure mathematics and a curiosity for theoretical physics has lead me to explore the intersection of both of these domains. I enjoy working on problems in **physical mathematics** (number theory, topology, and geometry in physics) -- particularly in _quantum field theories_, _supersymmetry_ and _string theory_.
 
 A few interesting projects that I am working on or have got to work on in the past are:
-- Applications of mock modular forms in black hole physics, particularly in the context of CHL orbifolds.
-- Supersymmetric boundary conditions for higher spin $AdS_3$ gravity and its dual description in terms of Fermi droplets.
-- A field theoretic model of superconductivity (Eliashberg theory) with spin-orbit interaction and coupling to magnons and other bosons.
+- Applications of **mock modular forms** in black hole physics, particularly in the context of CHL orbifolds.
+- Supersymmetric boundary conditions for **higher spin $AdS_3$ gravity** and its dual description in terms of Fermi droplets.
+- A field theoretic model of **superconductivity** with spin-orbit interaction and coupling to magnons and other bosons.
+
+You can read more about my research [here](https://vedant-bhutra.github.io/research).
 
 \end{biography}
 
