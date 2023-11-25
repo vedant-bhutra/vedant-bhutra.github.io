@@ -8,7 +8,7 @@
 # Research Projects
 
 @@im-35
-![](/assets/img/favicon.png)
+![](/assets/favicon.png)
 @@
 
 ## Modular forms and their applications to black holes in string theory
