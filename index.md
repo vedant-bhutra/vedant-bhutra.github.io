@@ -162,19 +162,3 @@ Feel welcome to contact me by email at [vedant@live.in](mailto:vedant@live.in).
 @@
 
 \end{section} -->
-
-<!-- -----------------
-     PORTFOLIO SECTION XXX
-     ----------------- -->
-
-<!-- -------------
-     TALKS SECTION XXX
-     ------------- -->
-
-<!-- --------------------
-     FEATURED PUB SECTION XXX
-     -------------------- -->
-
-<!-- ---------------------------
-     RECENT PUBLICATIONS SECTION XXX
-     --------------------------- -->

@@ -63,7 +63,7 @@ img.darkmode {
         --text-color:       #c9c7c3;
         --primary-color:    #E1E5EA;
         --secondary-color:  #A7BBC7;
-        --tertiary-color:   #5783c9;
+        --tertiary-color:   #3ab0de;
 
         --grey-color:       #92969e;
         --grey-color-light:  #5e5e5e;
@@ -87,11 +87,11 @@ img.darkmode {
         --text-color:       #373b43;
         --primary-color:    #E1E5EA;
         --secondary-color:  #A7BBC7;
-        --tertiary-color:   #5786c9;
+        --tertiary-color:   #4730ae;
 
-        --grey-color:       #999;
-        --grey-color-light: #cccccc;
-        --grey-color-dark:  #4e4e4e;
+        --grey-color:       #c8c8c8;
+        --grey-color-light: #e2e2e2;
+        --grey-color-dark:  #727272;
     }
 
     img.lightmode {

@@ -7,6 +7,10 @@
 
 # Research Projects
 
+@@im-35
+![](/assets/img/favicon.png)
+@@
+
 ## Modular forms and their applications to black holes in string theory
 
 *Supervised by Dr. Nabamita Banerjee, IISER Bhopal, India*.
