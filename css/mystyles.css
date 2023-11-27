@@ -18,7 +18,7 @@
 
   --spacing-unit:     30px;
 
-  --background-color: #FAF3F3;
+  --background-color: #faf3f3;
   --text-color:       #373b43;
   --primary-color:    #E1E5EA;
   --secondary-color:  #a7a7a7;
@@ -79,7 +79,7 @@ img.darkmode {
     }
 
     img {
-        filter: brightness(.85) contrast(1);
+        filter: brightness(.9) contrast(1.1);
     }
 
     :root.lightmode {
