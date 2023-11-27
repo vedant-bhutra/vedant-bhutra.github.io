@@ -17,7 +17,7 @@
   link="{{fill affiliation_link}}",
   linkname="{{fill affiliation}}",
   twitter="{{fill twitter_user}}",
-  gscholar="null",
+  linkedin={{fill linkedin_user}},
   github="{{fill github_user}}"
 }
 @@ <!-- end of column -->
@@ -37,10 +37,9 @@ I am a Master's student studying Physics and Maths at [IISER Bhopal](https://iis
 
 A passion for pure mathematics and a curiosity for theoretical physics has lead me to explore the intersection of both of these domains. I enjoy working on problems in **physical mathematics** (number theory, topology, and geometry in physics) -- particularly in _quantum field theories_, _supersymmetry_ and _string theory_.
 
-A few interesting projects that I am working on or have got to work on in the past are:
-- Applications of **mock modular forms** in black hole physics, particularly in the context of CHL orbifolds.
-- Supersymmetric boundary conditions for **higher spin $AdS_3$ gravity** and its dual description in terms of Fermi droplets.
-- A field theoretic model of **superconductivity** with spin-orbit interaction and coupling to magnons and other bosons.
+A few interesting projects that I am currently working:
+- **Mock modular forms** in partition functions of black holes in string theory, particularly in the context of CHL orbifolds.
+- Supersymmetric boundary conditions for **higher spin gravity** in $AdS_3$ and its geometric description in terms of Fermi droplets.
 
 You can read more about my research [here](https://vedant-bhutra.github.io/research).
 
