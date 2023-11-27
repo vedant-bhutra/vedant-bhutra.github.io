@@ -17,7 +17,7 @@
   link="{{fill affiliation_link}}",
   linkname="{{fill affiliation}}",
   twitter="{{fill twitter_user}}",
-  linkedin={{fill linkedin_user}},
+  linkedin="{{fill linkedin_user}}",
   github="{{fill github_user}}"
 }
 @@ <!-- end of column -->
