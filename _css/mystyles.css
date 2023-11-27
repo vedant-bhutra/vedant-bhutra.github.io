@@ -21,8 +21,8 @@
   --background-color: #FAF3F3;
   --text-color:       #373b43;
   --primary-color:    #E1E5EA;
-  --secondary-color:  #A7BBC7;
-  --tertiary-color:   #5783c9;
+  --secondary-color:  #a7a7a7;
+  --tertiary-color:   #953565;
 
   --grey-color:       #999;
   --grey-color-light: #d6e1e8;
@@ -89,9 +89,9 @@ img.darkmode {
         --secondary-color:  #A7BBC7;
         --tertiary-color:   #953565;
 
-        --grey-color:       #c8c8c8;
-        --grey-color-light: #e2e2e2;
-        --grey-color-dark:  #727272;
+        --grey-color:       #909090;
+        --grey-color-light: #b7b7b7;
+        --grey-color-dark:  #4f4f4f;
     }
 
     img.lightmode {

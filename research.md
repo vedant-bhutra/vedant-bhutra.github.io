@@ -44,7 +44,7 @@ Eliashberg theory is a strong-coupling theory of superconductivity. It describes
 See my notes here: [spin-orbit](https://drive.google.com/file/d/19lD7A3n8dn1RfgCDg2J3Zo0shQx2Y3ns/view?usp=sharing), [magnon-mediated superconductivity](https://drive.google.com/file/d/1idT707M5y5Q4aEsF2AEGIfNdyxZFR9T0/view?usp=sharing).
 
 @@im-35
-![](/assets/imgiiserk2.png)
+![](/assets/img/iiserk2.png)
 @@
 
 ## Interplay between charge density waves and s-wave superconductivity
