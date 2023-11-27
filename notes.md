@@ -1,4 +1,4 @@
-@def title = "Vedant Bhutra | Research"
+@def title = "Vedant Bhutra | Notes"
 
 
 <!-- ------------------

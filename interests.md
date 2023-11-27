@@ -1,10 +1,10 @@
-@def title = "Vedant Bhutra | Research"
+@def title = "Vedant Bhutra | Interests"
 
 
 <!-- ------------------
-      NOTES SECTION
+      INTERESTS SECTION
      ------------------ -->
 
-# My Notes
+# My Research Interests
 
 *Page to be updated soon*
