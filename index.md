@@ -17,7 +17,6 @@
   link="{{fill affiliation_link}}",
   linkname="{{fill affiliation}}",
   twitter="{{fill twitter_user}}",
-  linkedin="https://www.linkedin.com/in/vedant-bhutra-9512a91a5",
   github="{{fill github_user}}"
 }
 @@ <!-- end of column -->
