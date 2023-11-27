@@ -6,7 +6,7 @@ affiliation = ""
 affiliation_link = ""
 twitter_user = "https://twitter.com/v_bhutra"
 github_user = "https://github.com/vedant-bhutra"
-linkedin_user "https://www.linkedin.com/in/vedant-bhutra-9512a91a5/"
+linkedin_user "https://www.linkedin.com/in/vedant-bhutra-9512a91a5"
 
 mintoclevel = 2
 ignore = ["node_modules/", "franklin", "franklin.pub"]
